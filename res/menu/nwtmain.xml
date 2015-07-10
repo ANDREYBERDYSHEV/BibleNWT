@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_findbible"
+        android:orderInCategory="1"
+        android:title="@string/action_findbible"/>
+    <item
+        android:id="@+id/action_ukrbible"
+        android:orderInCategory="2"
+        android:title="@string/action_ukrbible"/>
+
+    <item
+        android:id="@+id/action_about"
+        android:orderInCategory="3"
+        android:title="@string/title_activity_about"/>
+</menu>

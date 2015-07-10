@@ -1,0 +1,6 @@
+/Volumes/DATA/CloudMailRu@t8680253/WINDATA/ibx/INTERNET SYNC/Google Drive kievlipids/BibleNWT/build/intermediates/classes/release
+/Volumes/DATA/CloudMailRu@t8680253/WINDATA/ibx/INTERNET SYNC/Google Drive kievlipids/BibleNWT/build/intermediates/pre-dexed/release/support-annotations-20.0.0-1485cf4e5820814f12c2180106b77681812e4e57.jar
+/Volumes/DATA/CloudMailRu@t8680253/WINDATA/ibx/INTERNET SYNC/Google Drive kievlipids/BibleNWT/build/intermediates/pre-dexed/release/android-sqlite-asset-helper-ed089720e52f63458a1da37f7378b6d0e6e65d9e.jar
+/Volumes/DATA/CloudMailRu@t8680253/WINDATA/ibx/INTERNET SYNC/Google Drive kievlipids/BibleNWT/build/intermediates/pre-dexed/release/internal_impl-20.0.0-208546d860c796b6589516a09c24e7abeff8e98c.jar
+/Volumes/DATA/CloudMailRu@t8680253/WINDATA/ibx/INTERNET SYNC/Google Drive kievlipids/BibleNWT/build/intermediates/pre-dexed/release/classes-109d0a68602eebee8410b1843a922075370b0c20.jar
+/Volumes/DATA/CloudMailRu@t8680253/WINDATA/ibx/INTERNET SYNC/Google Drive kievlipids/BibleNWT/build/intermediates/pre-dexed/release/classes-4ca583af58f10c5384dae8c47525e9bece94e224.jar

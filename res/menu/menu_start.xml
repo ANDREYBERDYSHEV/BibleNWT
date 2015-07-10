@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.andreyberdyshev.biblenwt.StartActivity">
+
+
+    <item android:id="@+id/action_ukrbible_start" android:title="@string/action_ukrbible"/>
+
+    <item android:id="@+id/action_rusbible_start" android:title="@string/action_rusbible"/>
+
+        android:orderInCategory="100" app:showAsAction="never" />
+</menu>

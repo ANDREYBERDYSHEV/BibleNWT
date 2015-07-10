@@ -1,0 +1,144 @@
+	<string-array name=<item>@string/planets_array<item>@string/>
+    <item>@string/earth</item>
+    <item>@string/mars</item>
+</string-array>
+	
+	<string-array name="Evr">
+    		<item>@string/Бытие</item>
+			<item>@string/Исход</item>
+			<item>@string/Левит</item>
+			<item>@string/Числа</item>
+			<item>@string/Второзаконие</item>
+			<item>@string/Иисус Навин</item>
+			<item>@string/Судей</item>
+			<item>@string/Руфь</item>
+			<item>@string/1 Самуила</item>
+			<item>@string/2 Самуила</item>
+			<item>@string/1 Царей</item>
+			<item>@string/2 Царей</item>
+			<item>@string/1 Летопись</item>
+			<item>@string/2 Летопись</item>
+			<item>@string/Ездра</item>
+			<item>@string/Неемия</item>
+			<item>@string/Эсфирь</item>
+			<item>@string/Иов</item>
+			<item>@string/Псалмы</item>
+			<item>@string/Притчи</item>
+			<item>@string/Экклезиаст</item>
+			<item>@string/Песнь песней</item>
+			<item>@string/Исаия</item>
+			<item>@string/Иеремия</item>
+			<item>@string/Плач Иеремии</item>
+			<item>@string/Иезекииль</item>
+			<item>@string/Даниил</item>
+			<item>@string/Осия</item>
+			<item>@string/Иоиль</item>
+			<item>@string/Амос</item>
+			<item>@string/Авдий</item>
+			<item>@string/Иона</item>
+			<item>@string/Михей</item>
+			<item>@string/Наум</item>
+			<item>@string/Аввакум</item>
+			<item>@string/Софония</item>
+			<item>@string/Аггей</item>
+			<item>@string/Захария</item>
+			<item>@string/Малахия</item>
+</string-array>
+			
+	<string-array name="Grec">
+	 		<item>@string/Матфея</item>
+			<item>@string/Марка</item>
+			<item>@string/Луки</item>
+			<item>@string/Иоанна</item>
+			<item>@string/Деяния</item>
+			<item>@string/Римлянам</item>
+			<item>@string/1 Коринфянам</item>
+			<item>@string/2 Коринфянам</item>
+			<item>@string/Галатам</item>
+			<item>@string/Эфесянам</item>
+			<item>@string/Филиппийцам</item>
+			<item>@string/Колоссянам</item>
+			<item>@string/1 Фессалоникийцам</item>
+			<item>@string/2 Фессалоникийцам</item>
+			<item>@string/1 Тимофею</item>
+			<item>@string/2 Тимофею</item>
+			<item>@string/Титу</item>
+			<item>@string/Филимону</item>
+			<item>@string/Евреям</item>
+			<item>@string/Иакова</item>
+			<item>@string/1 Петра</item>
+			<item>@string/2 Петра</item>
+			<item>@string/1 Иоанна</item>
+			<item>@string/2 Иоанна</item>
+			<item>@string/3 Иоанна</item>
+			<item>@string/Иуды</item>
+			<item>@string/Откровение</item>
+</string-array>
+
+	String[] Evr = {
+			"Бытие",
+			"Исход",
+			"Левит",
+			"Числа",
+			"Второзаконие",
+			"Иисус Навин",
+			"Судей",
+			"Руфь",
+			"1 Самуила",
+			"2 Самуила",
+			"1 Царей",
+			"2 Царей",
+			"1 Летопись",
+			"2 Летопись",
+			"Ездра",
+			"Неемия",
+			"Эсфирь",
+			"Иов",
+			"Псалмы",
+			"Притчи",
+			"Экклезиаст",
+			"Песнь песней",
+			"Исаия",
+			"Иеремия",
+			"Плач Иеремии",
+			"Иезекииль",
+			"Даниил",
+			"Осия",
+			"Иоиль",
+			"Амос",
+			"Авдий",
+			"Иона",
+			"Михей",
+			"Наум",
+			"Аввакум",
+			"Софония",
+			"Аггей",
+			"Захария",
+			"Малахия"
+	}; 
+	String[] Grec = {
+			"Матфея","Марка","Луки","Иоанна","Деяния",
+			"Римлянам",
+			"1 Коринфянам",
+			"2 Коринфянам",
+			"Галатам",
+			"Эфесянам",
+			"Филиппийцам",
+			"Колоссянам",
+			"1 Фессалоникийцам",
+			"2 Фессалоникийцам",
+			"1 Тимофею",
+			"2 Тимофею",
+			"Титу",
+			"Филимону",
+			"Евреям",
+			"Иакова",
+			"1 Петра",
+			"2 Петра",
+			"1 Иоанна",
+			"2 Иоанна",
+			"3 Иоанна",
+			"Иуды",
+			"Откровение"
+			}; 
+	

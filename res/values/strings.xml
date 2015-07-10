@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bible NWT</string>
+    <string name="main_title">Перевод Нового мира</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_findbible">Поиск по Библии</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_chapter">Главы</string>
+    <string name="title_activity_stix">Стихи</string>
+    <string name="title_activity_show_stix">Выбранный стих</string>
+    <string name="title_activity_find">Поиск по Библии</string>
+    <string name="title_reslut_find_window">Найдено :</string>
+    <string name="title_reslut_find_windowukr">Знайдено :</string>
+    <string name="font_size">Шрифт </string>
+    <string name="menu_find">Поиск по Библии </string>
+    <string name="EvrPis">---- Еврейские писания ----</string>
+    <string name="GreekPis">---- Греческие писания ----</string>
+    <string name="KnopkaPusk">Пуск</string>
+    <string name="MenuToolsFind1">Отослать СМС</string>
+    <string name="MenuToolsFindTRANS">Транслит СМС</string>
+    <string name="TitleUkrMain">Переклад нового світу</string>
+    <string name="MenuToolsFind1ukr">Надіслати СМС</string>
+    <string name="MenuToolsFindTRANSukr">СМС латиницею</string>
+
+    <string-array name="Evr">
+        <item>Бытие</item>
+        <item>Исход</item>
+        <item>Левит</item>
+        <item>Числа</item>
+        <item>Второзаконие</item>
+        <item>Иисус Навин</item>
+        <item>Судей</item>
+        <item>Руфь</item>
+        <item>1 Самуила</item>
+        <item>2 Самуила</item>
+        <item>1 Царей</item>
+        <item>2 Царей</item>
+        <item>1 Летопись</item>
+        <item>2 Летопись</item>
+        <item>Ездра</item>
+        <item>Неемия</item>
+        <item>Эсфирь</item>
+        <item>Иов</item>
+        <item>Псалмы</item>
+        <item>Притчи</item>
+        <item>Экклезиаст</item>
+        <item>Песнь песней</item>
+        <item>Исаия</item>
+        <item>Иеремия</item>
+        <item>Плач Иеремии</item>
+        <item>Иезекииль</item>
+        <item>Даниил</item>
+        <item>Осия</item>
+        <item>Иоиль</item>
+        <item>Амос</item>
+        <item>Авдий</item>
+        <item>Иона</item>
+        <item>Михей</item>
+        <item>Наум</item>
+        <item>Аввакум</item>
+        <item>Софония</item>
+        <item>Аггей</item>
+        <item>Захария</item>
+        <item>Малахия</item>
+    </string-array>
+    <string-array name="Grec">
+        <item>Матфея</item>
+        <item>Марка</item>
+        <item>Луки</item>
+        <item>Иоанна</item>
+        <item>Деяния</item>
+        <item>Римлянам</item>
+        <item>1 Коринфянам</item>
+        <item>2 Коринфянам</item>
+        <item>Галатам</item>
+        <item>Эфесянам</item>
+        <item>Филиппийцам</item>
+        <item>Колоссянам</item>
+        <item>1 Фессалоникийцам</item>
+        <item>2 Фессалоникийцам</item>
+        <item>1 Тимофею</item>
+        <item>2 Тимофею</item>
+        <item>Титу</item>
+        <item>Филимону</item>
+        <item>Евреям</item>
+        <item>Иакова</item>
+        <item>1 Петра</item>
+        <item>2 Петра</item>
+        <item>1 Иоанна</item>
+        <item>2 Иоанна</item>
+        <item>3 Иоанна</item>
+        <item>Иуды</item>
+        <item>Откровение</item>
+    </string-array>
+    <string-array name="Evrukr">
+        <item>Буття</item>
+        <item>Вихід</item>
+        <item>Левіт</item>
+        <item>Числа</item>
+        <item>Повторення Закону</item>
+        <item>Ісуса Навина</item>
+        <item>Суддів</item>
+        <item>Рут</item>
+        <item>1 Самуїла</item>
+        <item>2 Самуїла</item>
+        <item>1 Царів</item>
+        <item>2 Царів</item>
+        <item>1 Хронік</item>
+        <item>2 Хронік</item>
+        <item>Ездри</item>
+        <item>Неемії</item>
+        <item>Естер</item>
+        <item>Йова</item>
+        <item>Псалми</item>
+        <item>Прислів’я</item>
+        <item>Екклезіаста</item>
+        <item>Пісня над піснями</item>
+        <item>Ісаї</item>
+        <item>Єремії</item>
+        <item>Плач Єремії</item>
+        <item>Єзекіїля</item>
+        <item>Даниїла</item>
+        <item>Осії</item>
+        <item>Йоіла</item>
+        <item>Амоса</item>
+        <item>Авдія</item>
+        <item>Йони</item>
+        <item>Михея</item>
+        <item>Наума</item>
+        <item>Авакума</item>
+        <item>Софонії</item>
+        <item>Огія</item>
+        <item>Захарія</item>
+        <item>Малахії</item>
+    </string-array>
+    <string-array name="Grecukr">
+        <item>Матвія</item>
+        <item>Марка</item>
+        <item>Луки</item>
+        <item>Івана</item>
+        <item>Дії апостолів</item>
+        <item>Римлян</item>
+        <item>1 Коринфян</item>
+        <item>2 Коринфян</item>
+        <item>Галатів</item>
+        <item>Ефесян</item>
+        <item>Філіппійців</item>
+        <item>Колоссян</item>
+        <item>1 Фессалонікійців</item>
+        <item>2 Фессалонікійців</item>
+        <item>1 Тимофія</item>
+        <item>2 Тимофія</item>
+        <item>Тита</item>
+        <item>Филимона</item>
+        <item>Євреїв</item>
+        <item>Якова</item>
+        <item>1 Петра</item>
+        <item>2 Петра</item>
+        <item>1 Івана</item>
+        <item>2 Івана</item>
+        <item>3 Івана</item>
+        <item>Юди</item>
+        <item>Об’явлення</item>
+    </string-array>
+
+    <string name="title_activity_about">О программе</string>
+    <string name="title_activity_show_stix_in_list">ShowStixInList</string>
+    <string name="bntGoMainActivityCaption">Книги</string>
+    <string name="action_ukrbible">Український переклад</string>
+    <string name="action_rusbible">Русский перевод</string>
+    <string name="title_activity_ukr">Український</string>
+    <string name="title_activity_start">Перевод Нового мира</string>
+    <string name="Start_RUS">Русский</string>
+    <string name="Start_UKR">Український</string>
+    <string name="Get_references">Подивитися примітки</string>
+    <string name="Copy_to_clipboard">Скопіювати вірш</string>
+    <string name="nemae_primitok">Немає приміток!</string>
+    <string name="Virsh_ckopiyovano">Вірш скопійовано!</string>
+    <string name="font_up">Збільшити шрифт</string>
+    <string name="font_down">Зменшити шрифт</string>
+    <string name="menu_poshuk_po_biblii">Пошук по Біблії</string>
+
+</resources>

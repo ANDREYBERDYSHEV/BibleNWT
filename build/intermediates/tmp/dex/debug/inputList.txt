@@ -1,0 +1,6 @@
+/Volumes/DATA/Ibx/INTERNET SYNC/Google Drive kievlipids/BibleNWT/build/intermediates/classes/debug
+/Volumes/DATA/Ibx/INTERNET SYNC/Google Drive kievlipids/BibleNWT/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-1abaf3e9a94f10b3e3a1bd6a3a02b90e7f7a3c34.jar
+/Volumes/DATA/Ibx/INTERNET SYNC/Google Drive kievlipids/BibleNWT/build/intermediates/pre-dexed/debug/android-sqlite-asset-helper-033e657a0117c7a6d27b21d362b4657bfd760cbc.jar
+/Volumes/DATA/Ibx/INTERNET SYNC/Google Drive kievlipids/BibleNWT/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-9c75aa91822bc855febc932a4cb24eb46edb8be2.jar
+/Volumes/DATA/Ibx/INTERNET SYNC/Google Drive kievlipids/BibleNWT/build/intermediates/pre-dexed/debug/classes-cd02acea0ce4df08d376509fab8377786def4170.jar
+/Volumes/DATA/Ibx/INTERNET SYNC/Google Drive kievlipids/BibleNWT/build/intermediates/pre-dexed/debug/classes-66a7c60bae6b36337a58326824d0a28e1ee658d4.jar

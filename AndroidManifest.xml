@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.andreyberdyshev.biblenwt"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="20" />
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_SMS" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <application
+        android:name="com.andreyberdyshev.biblenwt.MyApp"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppBaseTheme" >
+        <activity
+            android:name="com.andreyberdyshev.biblenwt.NwtmainActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.andreyberdyshev.biblenwt.ChapterActivity"
+            android:label="@string/title_activity_chapter" >
+        </activity>
+        <activity
+            android:name="com.andreyberdyshev.biblenwt.StixActivity"
+            android:label="@string/title_activity_stix" >
+        </activity>
+        <activity
+            android:name="com.andreyberdyshev.biblenwt.ShowStixActivity"
+            android:label="@string/title_activity_show_stix" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="android.accounts.AccountAuthenticatorActivity" />
+        </activity>
+        <activity
+            android:name="com.andreyberdyshev.biblenwt.FindActivity"
+            android:label="@string/title_activity_find" >
+        </activity>
+        <activity
+            android:name="com.andreyberdyshev.biblenwt.About"
+            android:label="@string/title_activity_about" >
+        </activity>
+        <activity
+            android:name="com.andreyberdyshev.biblenwt.ShowStixInList"
+            android:label="@string/title_activity_show_stix_in_list" >
+        </activity>
+        <activity
+            android:name="com.andreyberdyshev.biblenwt.UKR"
+            android:label="@string/title_activity_ukr" >
+        </activity>
+        <activity
+            android:name="com.andreyberdyshev.biblenwt.StartActivity"
+            android:label="Перевод Нового мира" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+
+        </activity>
+    </application>
+
+</manifest>
